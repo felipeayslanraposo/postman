@@ -1,0 +1,9 @@
+<h1>Métodos Postman</h1>
+
+ - POST
+
+ - PUT
+
+ - GET
+
+ - DELETE
