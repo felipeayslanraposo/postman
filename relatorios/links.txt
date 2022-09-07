@@ -1,0 +1,4 @@
+LINK ÚTEIS
+
+LINK COM INSTRUÇÕES DE INSTALAÇÃO E COMANDOS PARA EXTRAIS UM RELATÓRIO DO POSTMAN
+https://www.npmjs.com/package/newman-reporter-htmlextra

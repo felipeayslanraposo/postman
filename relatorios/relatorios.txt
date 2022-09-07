@@ -1,0 +1,3 @@
+COMANDO PARA EXTRAIR RELATÓRIO DO POSTMAN COM O NEWMAN
+
+newman run "Azul - Legal Voucher.postman_collection.json" -e "Azul - LegalVoucher.postman_environment.json" -r htmlextra --reporter-htmlextra-export Export_reports/Azul_LegalVoucher.html --reporter-htmlextra-title "Azul - LegalVoucher" --reporter-htmlextra-titleSize 6 --reporter-htmlextra-browserTitle "Elaw - TesteAPI"
